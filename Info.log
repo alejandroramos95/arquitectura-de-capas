@@ -27109,3 +27109,40 @@
 {"level":30,"time":1673789343050,"pid":5076,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /api/productos/listar/5, method: GET"}
 {"level":30,"time":1673789346170,"pid":5076,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /api/productos/listar/999, method: GET"}
 {"level":30,"time":1673789348369,"pid":5076,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /api/productos/listar/42, method: GET"}
+{"level":30,"time":1673792625452,"pid":7476,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /login, method: GET"}
+{"level":30,"time":1673792625647,"pid":7476,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /favicon.ico, method: GET"}
+{"level":30,"time":1673792628478,"pid":7476,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /api/sessions/login, method: POST"}
+{"level":30,"time":1673792749476,"pid":14244,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /login, method: GET"}
+{"level":30,"time":1673792752160,"pid":14244,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /api/sessions/login, method: POST"}
+{"level":30,"time":1673792776916,"pid":13608,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /login, method: GET"}
+{"level":30,"time":1673792783385,"pid":1632,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /api/sessions/login, method: POST"}
+{"level":30,"time":1673793276439,"pid":14204,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /login, method: GET"}
+{"level":30,"time":1673793279574,"pid":14204,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /api/sessions/login, method: POST"}
+{"level":30,"time":1673793280642,"pid":14204,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /main, method: GET"}
+{"level":30,"time":1673793281349,"pid":14204,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /, method: GET"}
+{"level":30,"time":1673793281350,"pid":14204,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /main, method: GET"}
+{"level":30,"time":1673793391277,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /, method: GET"}
+{"level":40,"time":1673793391280,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Ruta incorrecta"}
+{"level":30,"time":1673793391281,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /main, method: GET"}
+{"level":30,"time":1673793427777,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /api/productos/guardar, method: POST"}
+{"level":40,"time":1673793427797,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Ruta incorrecta"}
+{"level":30,"time":1673793427819,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /api/productos/css/estilos.css, method: GET"}
+{"level":40,"time":1673793427820,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Ruta incorrecta"}
+{"level":30,"time":1673793436225,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /api/sessions/login, method: POST"}
+{"level":30,"time":1673793436447,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /main, method: GET"}
+{"level":30,"time":1673793436951,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /, method: GET"}
+{"level":30,"time":1673793436952,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /main, method: GET"}
+{"level":30,"time":1673793443193,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /api/productos/guardar, method: POST"}
+{"level":30,"time":1673793443293,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /main, method: GET"}
+{"level":30,"time":1673793443508,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /, method: GET"}
+{"level":30,"time":1673793443510,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /main, method: GET"}
+{"level":30,"time":1673793450268,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /login, method: GET"}
+{"level":30,"time":1673793452134,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /api/productos, method: GET"}
+{"level":30,"time":1673793453539,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /home, method: GET"}
+{"level":30,"time":1673793459547,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /api/productos, method: GET"}
+{"level":30,"time":1673793461719,"pid":13704,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /api/productos/listar, method: GET"}
+{"level":30,"time":1673793743105,"pid":14080,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /login, method: GET"}
+{"level":30,"time":1673793746267,"pid":14080,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /api/sessions/login, method: POST"}
+{"level":30,"time":1673793747295,"pid":14080,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /main, method: GET"}
+{"level":30,"time":1673793747891,"pid":14080,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /, method: GET"}
+{"level":30,"time":1673793747892,"pid":14080,"hostname":"DESKTOP-U9O2N3U","msg":"Petición entrante -----> Ruta: /main, method: GET"}

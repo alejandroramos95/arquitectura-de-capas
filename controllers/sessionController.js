@@ -34,14 +34,14 @@ passport.deserializeUser(async (email, done) => {
   done(null, user)
 })
 
-//Logueo y seteo cookie con logueo exitoso
+/* //Logueo y seteo cookie con logueo exitoso
 function logInUsuario() {
   passport.authenticate('login', {
     successRedirect: '/main',
     failureRedirect: '/login-error',
     passReqToCallback: true,
   })
-}
+} */
 
 // REGISTRO
 async function registrarNuevoUsuario(req, res) {
@@ -64,4 +64,4 @@ function logOutUsuario(req, res) {
   res.redirect('/login')
 }
 
-module.exports = { logInUsuario, registrarNuevoUsuario, logOutUsuario }
+module.exports = { registrarNuevoUsuario, logOutUsuario, passport }
